@@ -1,0 +1,8 @@
+opencv-python
+datasets
+diffusers
+faker
+langchain
+langchain_community
+transformers
+accelerate
